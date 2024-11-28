@@ -5,9 +5,13 @@
     "location": "Remote",
     "duration": "Jan 2022 - Nov 2024",
     "responsibilities": [
-      "Supporting customer development teams to create scalable, high-performance shopping experiences using our API.",
-      "Driving customer success from onboarding to go-live and beyond with tailored support.",
-      "Reduced time to value by improving onboarding experience by ~20%."
+      "Supported customer development teams to create scalable, high-performance shopping experiences using our API.",
+      "Drove customer success from onboarding to go-live and beyond with tailored support.",
+      "Provided guidance on integrations, CI/CD, and performance optimization, while assisting with bug fixing, troubleshooting, and security.",
+      "Reduced time to value of customers by ~20% by improving onboarding experience.",
+      "Assisted with the migration of 25+ customers from single-tenant to multi-tenant architecture.",
+      "Improved team productivity by building an internal knowledge base.",
+      "Developed a React application to generate customer project reviews, reducing preparation time by over 100%."
     ]
   },
   {
@@ -15,9 +19,28 @@
     "company": "EZ360",
     "duration": "2017 - 2022",
     "responsibilities": [
-      "Built and led a team to develop and scale a B2B SaaS platform for VR content management.",
-      "Managed big clients like Air France KLM, United Nations, and Ferrari.",
+      "Built and led a high-performing team to develop and scale a B2B SaaS platform for managing Virtual Reality (VR) content.",
+      "Managed large clients including Air France KLM, United Nations, and Ferrari.",
       "Guided the company through a successful acquisition."
+    ]
+  },
+  {
+    "title": "Co-Founder",
+    "company": "VR-House",
+    "duration": "2016 - 2022",
+    "responsibilities": [
+      "Delivered custom Virtual Reality (VR) solutions for clients across multiple industries.",
+      "Directed a team of 25 professionals, including developers, designers, and onsite support specialists.",
+      "Built a successful VR team-building application sold over 1500 times on Steam: DoodleVR."
+    ]
+  },
+  {
+    "title": "Co-Founder",
+    "company": "Sporthoesjes",
+    "duration": "2014 - 2017",
+    "responsibilities": [
+      "Founded and scaled a sports equipment e-commerce site.",
+      "Led the business to a successful acquisition in 2017."
     ]
   }
 ]

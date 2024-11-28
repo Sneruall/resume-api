@@ -1,4 +1,12 @@
 {
   "version": 2,
-  "routes": [{ "src": "/api/(.*)", "dest": "/api/$1" }]
+  "routes": [
+    { "src": "/", "dest": "/index.js" },
+    { "src": "/experiences", "dest": "/experiences.js" },
+    { "src": "/tools", "dest": "/tools.js" },
+    { "src": "/education", "dest": "/education.js" },
+    { "src": "/side-projects", "dest": "/side_projects.js" },
+    { "src": "/internships", "dest": "/internships.js" },
+    { "src": "/recommendations", "dest": "/recommendations.js" }
+  ]
 }

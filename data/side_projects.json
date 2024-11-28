@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Greendeed",
+    "role": "Creator & Full-stack Engineer",
+    "year": "2022",
+    "description": "Created an online job board focused on sustainability using TypeScript, React, NextJS, TailwindCSS, NodeJS, MongoDB, Sanity, and Cypress.",
+    "url": "https://www.greendeed.io"
+  },
+  {
+    "title": "Soloswim",
+    "role": "Creator & Full-stack Engineer",
+    "year": "2021",
+    "description": "Full-stack development of a unique e-commerce site using JavaScript, React, NextJS, TailwindCSS, NodeJS, and Vercel.",
+    "url": "https://www.soloswim.nl"
+  }
+]
