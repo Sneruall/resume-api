@@ -7,11 +7,24 @@
     "responsibilities": [
       "Supported customer development teams to create scalable, high-performance shopping experiences using our API.",
       "Drove customer success from onboarding to go-live and beyond with tailored support.",
-      "Provided guidance on integrations, CI/CD, and performance optimization, while assisting with bug fixing, troubleshooting, and security.",
+      "Provided guidance on integrations, CI/CD, performance optimization, and assisted with bug fixing, troubleshooting, and security.",
       "Reduced time to value of customers by ~20% by improving onboarding experience.",
       "Assisted with the migration of 25+ customers from single-tenant to multi-tenant architecture.",
-      "Improved team productivity by building an internal knowledge base.",
+      "Improved team productivity by building an internal knowledge base and contributing to FAQs.",
       "Developed a React application to generate customer project reviews, reducing preparation time by over 100%."
+    ],
+    "tags": [
+      "API",
+      "Customer Support",
+      "JavaScript",
+      "React",
+      "Troubleshooting",
+      "SaaS",
+      "Performance Optimization",
+      "Remote Work",
+      "Technical Documentation",
+      "CI/CD",
+      "Customer Onboarding"
     ]
   },
   {
@@ -20,8 +33,19 @@
     "duration": "2017 - 2022",
     "responsibilities": [
       "Built and led a high-performing team to develop and scale a B2B SaaS platform for managing Virtual Reality (VR) content.",
-      "Managed large clients including Air France KLM, United Nations, and Ferrari.",
-      "Guided the company through a successful acquisition."
+      "Managed large clients including Air France KLM, United Nations, and Ferrari, providing tailored solutions and troubleshooting assistance.",
+      "Guided the company through a successful acquisition while maintaining excellent customer satisfaction."
+    ],
+    "tags": [
+      "B2B SaaS",
+      "API",
+      "Customer Success",
+      "Client Management",
+      "JavaScript",
+      "Product Development",
+      "Customer Support",
+      "Team Leadership",
+      "Technical Troubleshooting"
     ]
   },
   {
@@ -29,9 +53,18 @@
     "company": "VR-House",
     "duration": "2016 - 2022",
     "responsibilities": [
-      "Delivered custom Virtual Reality (VR) solutions for clients across multiple industries.",
+      "Delivered custom Virtual Reality (VR) solutions for clients across multiple industries, ensuring their unique requirements were met.",
       "Directed a team of 25 professionals, including developers, designers, and onsite support specialists.",
       "Built a successful VR team-building application sold over 1500 times on Steam: DoodleVR."
+    ],
+    "tags": [
+      "VR",
+      "Team Management",
+      "Product Development",
+      "Customer Support",
+      "Technical Troubleshooting",
+      "Sales",
+      "Client Engagement"
     ]
   },
   {
@@ -39,8 +72,17 @@
     "company": "Sporthoesjes",
     "duration": "2014 - 2017",
     "responsibilities": [
-      "Founded and scaled a sports equipment e-commerce site.",
-      "Led the business to a successful acquisition in 2017."
+      "Founded and scaled a sports equipment e-commerce site, leveraging data-driven marketing and optimized operations.",
+      "Led the business to a successful acquisition in 2017, handling all aspects of technical operations and customer service."
+    ],
+    "tags": [
+      "E-commerce",
+      "Startup",
+      "Sales",
+      "Marketing",
+      "Customer Service",
+      "Technical Support",
+      "Entrepreneurship"
     ]
   }
 ]
