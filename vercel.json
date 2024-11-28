@@ -1,12 +1,12 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/", "dest": "/index.js" },
-    { "src": "/experiences", "dest": "/experiences.js" },
-    { "src": "/tools", "dest": "/tools.js" },
-    { "src": "/education", "dest": "/education.js" },
-    { "src": "/side-projects", "dest": "/side_projects.js" },
-    { "src": "/internships", "dest": "/internships.js" },
-    { "src": "/recommendations", "dest": "/recommendations.js" }
+    { "src": "/", "dest": "/api/index.js" },
+    { "src": "/experiences", "dest": "/api/experiences.js" },
+    { "src": "/tools", "dest": "/api/tools.js" },
+    { "src": "/education", "dest": "/api/education.js" },
+    { "src": "/side-projects", "dest": "/api/side_projects.js" },
+    { "src": "/internships", "dest": "/api/internships.js" },
+    { "src": "/recommendations", "dest": "/api/recommendations.js" }
   ]
 }
