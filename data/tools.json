@@ -1,0 +1,54 @@
+{
+  "Customer Support": [
+    "Jira",
+    "GitHub",
+    "Freshdesk",
+    "Zendesk",
+    "Confluence",
+    "HubSpot",
+    "Tawk"
+  ],
+  "Communication & Collaboration": [
+    "Notion",
+    "Slack",
+    "Zoom",
+    "Loom",
+    "Gong",
+    "Productboard",
+    "Google Workspace",
+    "Asana",
+    "Miro"
+  ],
+  "DevTools": [
+    "VS Code",
+    "Git",
+    "Postman",
+    "Netlify",
+    "Vercel",
+    "GCP",
+    "Docker",
+    "Browser DevTools",
+    "Humio",
+    "Kibana",
+    "Grafana",
+    "StatusCake",
+    "Cloudflare"
+  ],
+  "Languages & Frameworks": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "C#",
+    "PHP",
+    "HTML",
+    "CSS",
+    "TailwindCSS",
+    "Storybook",
+    "Jest",
+    "Cypress",
+    "REST & GraphQL",
+    "MACH"
+  ]
+}
